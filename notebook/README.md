@@ -8,15 +8,15 @@ Under each sub-level, each topic will have a sample and a tutorial notobook.
 E.g. basic\_sample.ipynb and basic_tutorial.ipynb 
 
 ### Directory structure:
- +-- notebook <- Jupyter notebooks
- +--|-- 1_basic <- Python 101
- +--|-- 2_beginner <- Python 102
- +--|-- 3_intermdiate <- Getting serious with Python
- +--|-- 4_advanced <- Getting more out of Python
- +--|-- 5_expert <- Python Professionals
- +--|-- 6_hardcore <- Everything Python
- +--src <- Python Scripts
- +--|-- package <- a module example
+ +-- notebook <- Jupyter notebooks  
+ +--|-- 1_basic <- Python 101  
+ +--|-- 2_beginner <- Python 102  
+ +--|-- 3_intermdiate <- Getting serious with Python  
+ +--|-- 4_advanced <- Getting more out of Python  
+ +--|-- 5_expert <- Python Professionals  
+ +--|-- 6_hardcore <- Everything Python  
+ +--src <- Python Scripts  
+ +--|-- package <- a module example  
  
 For list of tutorial materials, please see: [CONTENTS.md](./CONTENTS.md)
  
