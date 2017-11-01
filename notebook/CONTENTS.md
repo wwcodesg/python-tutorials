@@ -5,7 +5,7 @@
  * Data Types and Data Structures
  * Operations
  * Loops
- * Libraries
+ * Modules
  * Functions
  * File IO
  * Classes
