@@ -1,3 +1,18 @@
+# Section coverage
+The basics tutorial should be covered in the following order:- 
+ * jupyter notebook
+ * syntax
+ * data types and structures
+ * operations
+ * loops
+ * modules
+ * WS1: Word Cloud
+ * functions
+ * file input output
+ * more on modules
+ * classes
+ * WS2: Card Deck
+
 # References
 Materials in this folder is created with reference to the following:
 
@@ -19,4 +34,4 @@ Materials in this folder is created with reference to the following:
 	  John Wiley & Sons
 	  ISBN: 978-1-118-90866-2
 
-Various online resources are listed within the notebooks they are referenced at.
+Various online resources are listed at the bottom of the notebooks they are referenced at.
