@@ -6,8 +6,8 @@ The basics tutorial should be covered in the following order:-
  * operations
  * loops
  * modules
- * functions
  * WS1: Word Cloud
+ * functions
  * file input output
  * more on modules
  * classes
