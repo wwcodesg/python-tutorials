@@ -5,18 +5,15 @@ Python comes with a library of standard modules.
 This tutorial will not be going through the exhaustive list of standard modules, rather we will target the more commonly used tools.
 
 Modules covered by this tutorial:
- * os
- * glob
- * regex
- * math
- * pickle
- * shelf
- * sqlite3
- * collections
- * random
- * statistics
- * itertools
- * operator
+ * os, shutil, sys
+ * glob, re
+ * math, random, statistics, decimal
+ * datetime, time, calender
+ * zlib, timeit, doctest, unittest
+ * reprlib, pprint, textwrap, locale, template, struct
+ * threading, subprocess, logging
+ * collections, bisect, heapq
+ * pickle, shelf, sqlite3, dbm
 
 ## Resources
 Materials in this folder is created with reference to the following:
@@ -38,6 +35,12 @@ Materials in this folder is created with reference to the following:
 	  May 2013
 	  O'Reilly
 	  ISBN: 978-1-449-34037-7
+	
+	4. Beginning Python Visualization
+	   Shai Vaingast
+	   2014
+	   Apress
+	   ISBN: 978-1-4842-0053-7
 	
 
 ### Official:
